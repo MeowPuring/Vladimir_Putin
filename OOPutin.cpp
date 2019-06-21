@@ -1,6 +1,11 @@
 #include <OOPutin.h>
 #include <iostream>
 
+Vladimir_Putin::Vladimir_Putin()
+{
+
+}
+
 Vladimir_Putin::~Vladimir_Putin()
 {
 
